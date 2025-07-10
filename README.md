@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Programmers Badge](https://raw.githubusercontent.com/{leedy903}/programmers-stats/main/output/result.svg)
+![Programmers Badge](https://raw.githubusercontent.com/leedy903/programmers-stats/main/output/result.svg)
