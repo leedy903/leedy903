@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedy903)](https://solved.ac/leedy903/)
+
+### Career
+
+- 2025.01.07 ~ : Samsung Software AI Academy For Youth 13th
+- 2016.03 - 2023.08 : Department of Software
+
 ![Programmers Badge](https://raw.githubusercontent.com/leedy903/programmers-stats/main/output/result.svg)
