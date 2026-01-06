@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ### Career
 
 - 2025.01.07 - 2025.12.31 : Samsung Software AI Academy For Youth 13th
-- 2024.08.05 - 2025.01.06 : Digital Hanro 5th
+- 2024.08.05 - 2025.01.06 : Digital Hanaro 5th
 - 2016.03 - 2023.08 : Department of Software
